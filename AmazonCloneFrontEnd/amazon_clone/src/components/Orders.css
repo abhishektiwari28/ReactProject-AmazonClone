@@ -1,0 +1,23 @@
+.order_title {
+    display: flex;
+    align-items: center;
+    border-radius: 1px solid lightgrey;
+    margin: 20px;
+    margin-left: 80px;
+}
+.order_bucket {
+    background-color: white;
+    margin: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.order_info > h2{
+    padding-left: 40px;
+    padding-top: 35px;
+}
+.order_items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 30px;
+}
